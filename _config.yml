@@ -1,0 +1,28 @@
+name: Change Clayoquot
+favicon: null
+layout_spectrum: 0.3337706574238837
+typography_spectrum: 0.8057627244852483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8655678764916956
+  lightness: 0.17489326419308782
+  saturation: 0.3422260908409953
+  rhythmicContrast: 0.3490258555393666
+purpose: []
